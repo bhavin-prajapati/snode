@@ -1,0 +1,8 @@
+/Users/bhavinprajapati/workspace/snode/bin/Debug/netcoreapp1.1/snode.deps.json
+/Users/bhavinprajapati/workspace/snode/bin/Debug/netcoreapp1.1/snode.runtimeconfig.json
+/Users/bhavinprajapati/workspace/snode/bin/Debug/netcoreapp1.1/snode.runtimeconfig.dev.json
+/Users/bhavinprajapati/workspace/snode/bin/Debug/netcoreapp1.1/snode.dll
+/Users/bhavinprajapati/workspace/snode/bin/Debug/netcoreapp1.1/snode.pdb
+/Users/bhavinprajapati/workspace/snode/obj/Debug/netcoreapp1.1/snode.AssemblyInfo.cs
+/Users/bhavinprajapati/workspace/snode/obj/Debug/netcoreapp1.1/snode.dll
+/Users/bhavinprajapati/workspace/snode/obj/Debug/netcoreapp1.1/snode.pdb
